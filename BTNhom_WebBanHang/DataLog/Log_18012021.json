@@ -1,0 +1,15 @@
+﻿[
+  {
+    "userId": "duongnguyen",
+    "isPaid": true,
+    "ordersDetailList": [
+      {
+        "productName": "Samsung Galaxy S10",
+        "quantity": 18,
+        "price": 8000000.0,
+        "Amount": 144000000.0
+      }
+    ],
+    "total": 144000000.0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Phone",
+    "name": "Iphone12",
+    "status": true,
+    "price": 12000000
+  },
+  {
+    "type": "Phone",
+    "name": "Samsung Galaxy S10",
+    "status": true,
+    "price": 8000000
+  },
+  {
+    "type": "Phone",
+    "name": "Xiaomi Redmi Note",
+    "status": true,
+    "price": 8000000
+  },
+  {
+    "type": "Computer",
+    "name": "Asus ViVo5",
+    "status": true,
+    "price": 15000000
+  },
+  {
+    "type": "Computer",
+    "name": "Dell Inspiron",
+    "status": true,
+    "price": 13000000
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6kPf0V23NNuSGNI+DSMcgeBrQGSd/5WWExariMb3uRLcLloiIzLcWzG8XKciuZTk6GKelNsDkWsfyG+NiyvaQ==",
+  "success": true,
+  "projectFilePath": "H:\\BaitapNhom1\\update\\Module2\\BTNhom_WebBanHang\\BTNhom_WebBanHang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HungTran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
